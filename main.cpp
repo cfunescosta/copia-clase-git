@@ -4,7 +4,7 @@ using namespace std;
 string nombre_grupo = "<Nombre del grupo>";
 string integrante_1 = "Fran";
 string integrante_2 = "<Tobi";
-string integrante_3 = "Clari"
+string integrante_3 = "Clari";
 
 string capitalizar(string str)
 {
