@@ -2,8 +2,8 @@
 using namespace std;
 
 string nombre_grupo = "<Nombre del grupo>";
-string integrante_1 = "<Integrante 1>";
-string integrante_2 = "<Integrante 2>";
+string integrante_1 = "Fran";
+string integrante_2 = "<Tobi";
 string integrante_3 = "Clari"
 
 string capitalizar(string str)
